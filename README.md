@@ -28,3 +28,6 @@ https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
 # Prediction Metrics
 ![alt text](https://github.com/aekanshgoel/Brain_Tumor_Prediction/blob/main/summary_plot.png)
+
+# Prediction Results
+![alt text](https://github.com/aekanshgoel/Brain_Tumor_Prediction/blob/main/results.png)
