@@ -27,4 +27,4 @@ https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 <li>Artificial Neural Network
 
 # Prediction Metrics
-![alt text](https://github.com/aekanshgoel/Brain_Tumor_Prediction/main/summary-plot.png)
+![alt text](https://github.com/aekanshgoel/Brain_Tumor_Prediction/blob/main/summary-plot.png)
