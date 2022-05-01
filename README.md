@@ -24,5 +24,6 @@ https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 # Algorithms
 
 <li>Convolutional Neural Network
-  
+<li>Artificial Neural Network
+
 # Predictions
